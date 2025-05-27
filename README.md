@@ -49,11 +49,11 @@
 <section>
     <h2>Czym się zajmujemy?</h2>
     <p>Sales-Signals dostarcza aktualne informacje na temat:</p>
-    <ul>
-        <li>📌 <strong>Przetargów publicznych</strong> – znajdź najlepsze możliwości biznesowe.</li>
-        <li>🔨 <strong>Trwających budów</strong> – śledź inwestycje i nawiązuj nowe współprace.</li>
-        <li>📄 <strong>Pozwoleń na budowę</strong> – bądź na bieżąco z najnowszymi ogłoszeniami</li>
-    </ul>
+    <section>
+        <p>📌 <strong>Przetargów publicznych</strong> – znajdź najlepsze możliwości biznesowe.</p>
+        <p>🔨 <strong>Trwających budów</strong> – śledź inwestycje i nawiązuj nowe współprace.</p>
+        <p>📄 <strong>Pozwoleń na budowę</strong> – bądź na bieżąco z najnowszymi ogłoszeniami</p>
+    </section>
     <p>Nasze sygnały zapewniają przewagę konkurencyjną i pomagają podejmować świadome decyzje.</p>
 </section>
 
