@@ -38,6 +38,9 @@
             width: 100%;
             bottom: 0;
         }
+        h1 {
+            display: none;
+        }
     </style>
 </head>
 <body>
