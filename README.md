@@ -13,7 +13,6 @@
             background-size: cover; /* Make it cover the full screen */
             background-position: center; /* Center it */
             background-attachment: fixed; /* Keep it fixed */
-            color: white; /* Ensure text is readable */
             text-align: center;
         }
         header {
