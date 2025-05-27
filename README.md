@@ -31,10 +31,14 @@
         }
         footer {
             text-align: center;
-            padding: 10px;
             color: white;
-            width: 100%;
             bottom: 0;
+            max-width: 800px;
+            margin: 40px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         }
         h1 {
             display: none;
