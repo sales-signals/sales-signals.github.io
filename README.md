@@ -15,7 +15,6 @@
             text-align: center;
         }
         header {
-            background-color: #007BFF;
             color: white;
             padding: 20px;
             text-align: center;
@@ -68,7 +67,7 @@
 </section>
 
 <footer>
-    © 2025 Sales-Signals – Informacje, które napędzają Twój biznes.
+    © 2025 BI Consulting – Informacje, które napędzają Twój biznes.
 </footer>
 
 </body>
