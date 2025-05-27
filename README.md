@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -36,7 +35,6 @@
             padding: 10px;
             background-color: #007BFF;
             color: white;
-            position: fixed;
             width: 100%;
             bottom: 0;
         }
