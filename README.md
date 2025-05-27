@@ -9,8 +9,12 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
+            background-image: url('singals background.png'); /* Background image */
+            background-size: cover; /* Make it cover the full screen */
+            background-position: center; /* Center it */
+            background-attachment: fixed; /* Keep it fixed */
+            color: white; /* Ensure text is readable */
+            text-align: center;
         }
         header {
             background-color: #007BFF;
