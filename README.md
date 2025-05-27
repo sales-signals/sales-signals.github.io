@@ -31,7 +31,7 @@
         }
         footer {
             text-align: center;
-            color: white;
+            color: black;
             bottom: 0;
             max-width: 800px;
             margin: 40px auto;
