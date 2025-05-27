@@ -46,7 +46,7 @@
 <body>
     
 <header>
-    <img src="signals.png" alt="Sales-Signals Logo" style="height: 80px;">
+    <img src="singals.png" alt="Sales-Signals Logo" style="height: 80px;">
 </header>
 
 <section>
