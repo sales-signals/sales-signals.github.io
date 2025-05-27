@@ -44,9 +44,9 @@
     </style>
 </head>
 <body>
-
+    
 <header>
-    Sales-Signals – Twoje źródło kluczowych informacji
+    <img src="signals.png" alt="Sales-Signals Logo" style="height: 80px;">
 </header>
 
 <section>
